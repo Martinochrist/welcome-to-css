@@ -1,0 +1,19 @@
+.body{
+    background-color: black;
+}
+
+.heading{
+    color: red;
+    text-align: center;
+}
+
+#text{
+    color: white;
+}
+#list{
+    color: cyan;
+}
+
+#sbody{
+    color: gray;
+}
